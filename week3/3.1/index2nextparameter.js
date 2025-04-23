@@ -21,7 +21,7 @@ app.post("/health-checkup",function(req,res){
 
 app.get("/health-checkup2",function(req,res){
     res.json({
-        "msg":"hi baby"
+        "msg":"hi baby1"
     })
 });
 
